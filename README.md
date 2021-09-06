@@ -30,3 +30,7 @@
 ！[avatar](./示例图片/1_.png)
 简并贝塞尔曲线
 ！[avatar](./示例图片/2_.png)
+
+
+## 鸣谢
+- 此程序为在[仙工智能 SEER](https://github.com/seer-robotics/)实习期间完成(2021年暑假)，感谢[黄强盛老师](https://github.com/huangqiangsheng)在期间的指导。
